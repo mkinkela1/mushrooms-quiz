@@ -1,0 +1,307 @@
+[
+  {
+    "nameCro": "Ožujka",
+    "nameLat": "Hygrophorus marzuolus",
+    "img": "ozujka.png"
+  },
+  {
+    "nameCro": "Crvena vlaznica",
+    "nameLat": "Hygrocybe coccineus",
+    "img": "crvenaVlaznica.png"
+  },
+  {
+    "nameCro": "Martinčica",
+    "nameLat": "Clitocybe geotropa",
+    "img": "martincica.png"
+  },
+  {
+    "nameCro": "Otrovna brašnjača",
+    "nameLat": "Clitocybe dealbata",
+    "img": "otrovnaBrasnjaca.png"
+  },
+  {
+    "nameCro": "Puza",
+    "nameLat": "Armillariella mellea",
+    "img": "puza.png"
+  },
+  {
+    "nameCro": "Grmača",
+    "nameLat": "Armillariella tabescens",
+    "img": "grmaca.png"
+  },
+  {
+    "nameCro": "Maglenka",
+    "nameLat": "Clitocybe nebularis",
+    "img": "maglenka.png"
+  },
+  {
+    "nameCro": "Modrikača",
+    "nameLat": "Lepista nuda",
+    "img": "modrikaca.png"
+  },
+  {
+    "nameCro": "đurđevača",
+    "nameLat": "Calocybe gambosa",
+    "img": "modrikaca.png"
+  },
+  {
+    "nameCro": "Sivka",
+    "nameLat": "Tricholoma portentosum",
+    "img": "sivka.png"
+  },
+  {
+    "nameCro": "Tigrasta vitezovka",
+    "nameLat": "Tricholoma pardinum",
+    "img": "tigrastaVitezovka.png"
+  },
+  {
+    "nameCro": "Mišek",
+    "nameLat": "Tricholoma terreum",
+    "img": "misek.png"
+  },
+  {
+    "nameCro": "Svilenasta vitezovka",
+    "nameLat": "Tricholoma columbetta",
+    "img": "svilenastaVitezovka.png"
+  },
+  {
+    "nameCro": "Ledenjača",
+    "nameLat": "Oudemansiella mucida",
+    "img": "ledenjaca.png"
+  },
+  {
+    "nameCro": "Raspucana širokoliska",
+    "nameLat": "Megacollybia platyphylla",
+    "img": "raspucanaSirokoliska.png"
+  },
+  {
+    "nameCro": "Češnjevka",
+    "nameLat": "Marasmius scorodonius",
+    "img": "cesnjevka.png"
+  },
+  {
+    "nameCro": "Ljubičasta šljemovka",
+    "nameLat": "Mycena pura",
+    "img": "ljubicastaSljemovka.png"
+  },
+  {
+    "nameCro": "Bukovača",
+    "nameLat": "Pleurotus ostreatus",
+    "img": "bukovaca.png"
+  },
+  {
+    "nameCro": "Brestovača",
+    "nameLat": "Pleurotus cornucopioides",
+    "img": "brestovaca.png"
+  },
+  {
+    "nameCro": "Zavodnica",
+    "nameLat": "Omphalotus olearius",
+    "img": "zavodnica.png"
+  },
+  {
+    "nameCro": "Žilava aniška",
+    "nameLat": "Lentinellus cocheatus",
+    "img": "zilavaAniska.png"
+  },
+  {
+    "nameCro": "Shii-take",
+    "nameLat": "Lentinus edodes",
+    "img": "shiTake.png"
+  },
+  {
+    "nameCro": "Blagva",
+    "nameLat": "Amanita caesarea",
+    "img": "blagva.png"
+  },
+  {
+    "nameCro": "Muhara",
+    "nameLat": "Amanita muscaria",
+    "img": "muhara.png"
+  },
+  {
+    "nameCro": "Zelena pupavka",
+    "nameLat": "Amanita phalloides",
+    "img": "zelenaPupavka.png"
+  },
+  {
+    "nameCro": "Panterova muhara",
+    "nameLat": "Amanita pantherina",
+    "img": "panterovaMuhara.png"
+  },
+  {
+    "nameCro": "Žućkasta pupavka",
+    "nameLat": "Amanita citrina",
+    "img": "zuckastaPupavka.png"
+  },
+  {
+    "nameCro": "Biserka",
+    "nameLat": "Amanita rubescens",
+    "img": "biserka.png"
+  },
+  {
+    "nameCro": "Pečurka",
+    "nameLat": "Agaricus campestris",
+    "img": "pecurka.png"
+  },
+  {
+    "nameCro": "Otvorna pečurka",
+    "nameLat": "Agaricus xanthoderma",
+    "img": "otrovnaPecurka.png"
+  },
+  {
+    "nameCro": "Haringača",
+    "nameLat": "Lepiota cristata",
+    "img": "haringaca.png"
+  },
+  {
+    "nameCro": "Šljivovača",
+    "nameLat": "Entoloma clypeatum",
+    "img": "sljivovaca.png"
+  },
+  {
+    "nameCro": "Olovasta rudoliska",
+    "nameLat": "Entoloma sinuatum",
+    "img": "olovastaRudoliska.png"
+  },
+  {
+    "nameCro": "Velika gnojištarka",
+    "nameLat": "Coprinus comatus",
+    "img": "velikaGnojistarka.png"
+  },
+  {
+    "nameCro": "Zelena vitičarka",
+    "nameLat": "Stropharia aeruginosa",
+    "img": "zelenaViticarka.png"
+  },
+  {
+    "nameCro": "Crvenkasta panjevčica",
+    "nameLat": "Hypholoma sublateritium",
+    "img": "crvenkastaPanjevcica.png"
+  },
+  {
+    "nameCro": "Sumporača",
+    "nameLat": "Hypholoma fasciculare",
+    "img": "sumporaca.png"
+  },
+  {
+    "nameCro": "Jablanovača",
+    "nameLat": "Agrocybe aegerita",
+    "img": "jablanovaca.png"
+  },
+  {
+    "nameCro": "Crvenjača",
+    "nameLat": "Cortinarius orellanus",
+    "img": "crvenjaca.png"
+  },
+  {
+    "nameCro": "Polukrvna koprenka",
+    "nameLat": "Cortinarius semisanguinea",
+    "img": "polukrvnaKoprenka.png"
+  },
+  {
+    "nameCro": "Cimetasta crvenjača",
+    "nameLat": "Cortinarius cinamomea",
+    "img": "cimetastaCrvenjaca.png"
+  },
+  {
+    "nameCro": "Crvenkasta cjepača",
+    "nameLat": "Inocybe patouillardii",
+    "img": "crvenkastaCjepaca.png"
+  },
+  {
+    "nameCro": "Zemljasta cjepača",
+    "nameLat": "Inocybe geophylla",
+    "img": "zemljastaCjepaca.png"
+  },
+  {
+    "nameCro": "Rebrasta patuljica",
+    "nameLat": "Galerina marginata",
+    "img": "rebrastaPatuljica.png"
+  },
+  {
+    "nameCro": "Golubača",
+    "nameLat": "Russula virescens",
+    "img": "golubaca.png"
+  },
+  {
+    "nameCro": "Ljubičastozelena krasnica",
+    "nameLat": "Russula cyanoxantha",
+    "img": "ljubicastozelenaKrasnica.png"
+  },
+  {
+    "nameCro": "Bljuvara",
+    "nameLat": "Russula emetica",
+    "img": "bljuvara.png"
+  },
+  {
+    "nameCro": "Mliječnica",
+    "nameLat": "Lactarius piperatus",
+    "img": "mlijecnica.png"
+  },
+  {
+    "nameCro": "Rujnica",
+    "nameLat": "Lactarius deliciosus",
+    "img": "rujnica.png"
+  },
+  {
+    "nameCro": "Smrekina rujnica",
+    "nameLat": "Lactarius deterrimus",
+    "img": "smrekinaRujnica.png"
+  },
+  {
+    "nameCro": "Crvenkasti vrganj",
+    "nameLat": "Boletus pinicola",
+    "img": "crvenkastiVrganj.png"
+  },
+  {
+    "nameCro": "Hajdinski vrganj",
+    "nameLat": "Boletus aereus",
+    "img": "hajdinskiVrganj.png"
+  },
+  {
+    "nameCro": "Kravlja balega",
+    "nameLat": "Boletus calopus",
+    "img": "kravljaBalega.png"
+  },
+  {
+    "nameCro": "Ludara",
+    "nameLat": "Boletus satanas",
+    "img": "ludara.png"
+  },
+  {
+    "nameCro": "Turčin",
+    "nameLat": "Leccinum aurantiacum",
+    "img": "turcin.png"
+  },
+  {
+    "nameCro": "Grabov djed",
+    "nameLat": "Leccinum griseum",
+    "img": "grabovDjed.png"
+  },
+  {
+    "nameCro": "Prosenjak",
+    "nameLat": "Hydnum repandum",
+    "img": "prosenjak.png"
+  },
+  {
+    "nameCro": "Lisička",
+    "nameLat": "Cantharellus cibarius",
+    "img": "lisicka.png"
+  },
+  {
+    "nameCro": "Mrka trubača",
+    "nameLat": "Craterellus cornucopioides",
+    "img": "mrkaTrubaca.png"
+  },
+  {
+    "nameCro": "crni tartuf",
+    "nameLat": "Tuber melanosporum",
+    "img": "crniTartuf.png"
+  },
+  {
+    "nameCro": "bijeli tartuf",
+    "nameLat": "Tuber magnatum",
+    "img": "bijeliTartuf.png"
+  }
+]
