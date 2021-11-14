@@ -1,5 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import './App.css';
+import Image from './Image';
 
 interface IMushroom {
   nameCro: string,
@@ -37,7 +38,8 @@ const App = () => {
   if(mushrooms.length > 0)
     return (
         <div className="App">
-          <img src={`assets/mushrooms/${mushrooms[idx].img}`} alt={mushrooms[idx].nameCro} />
+          {/*<img src={`assets/mushrooms/${mushrooms[idx].img}`} alt={mushrooms[idx].nameCro} />*/}
+          <Image src={`assets/mushrooms/${mushrooms[idx].img}`} />
           {
             revealAnswer &&
             <div className="veggie-data">
